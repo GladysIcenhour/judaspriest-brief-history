@@ -4,4 +4,4 @@ This is a simple website I have constructed for deployment via an OpenShift clus
 All images and information have been sourced from the internet.
 No copyright infringement is intended.
 
-This is for a college programming project involving deployment of applications to the crowd.
+This is for a college programming project involving deployment of applications to the cloud.
